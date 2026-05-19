@@ -111,7 +111,7 @@ kubectl get nodes
 
 ![Screenshot 2026-05-18 at 10.34.39 PM.png](images/Screenshot_2026-05-18_at_10.34.39_PM.png)
 
-This is how your Kubernetes cluster is ready for `everestctl` to install and work. Your output should be like the image shown above. At this stage we are ready to install everestctl.
+This is how your Kubernetes cluster is ready for `everestctl` to install and work. Your output should be like the image shown above. At this stage we are ready to install OpenEverest.
 
 If your terminal still says that it failed to get server groups after the steps above, then you can diagnose it using the commands:
 
