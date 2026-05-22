@@ -1,7 +1,7 @@
 ---
 title: "OpenEverest v2 Developer Preview"
 date: 2026-05-21T09:00:00
-draft: false
+draft: true
 image:
     url: v2-developer-preview-cover.png
 authors:
